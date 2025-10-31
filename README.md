@@ -1,3 +1,5 @@
+<!-- 🖤 Minimal Dark Profile README for ThejivK -->
+
 <h1 align="center">Hey there 👋, I'm <span style="color:#58A6FF">A. Thejiv Krishna</span></h1>
 
 <p align="center">
@@ -25,6 +27,16 @@
 
 ---
 
+### 💼 Work Experience
+
+#### **C# Software Developer – GJ Square Solutions** *(Jul 2024 – Present)*
+- Revamped **Kendo UI components**, improving cross-browser compatibility by **30%**.  
+- Standardized icons across 50+ UI buttons ensuring ADA compliance.  
+- Built a **scalable inventory management system** using ASP.NET MVC + Entity Framework, reducing manual effort by **40%**.  
+- Collaborated with cross-functional teams in agile sprints to ensure timely delivery and consistent UI/UX.  
+
+---
+
 ### 🚀 Featured Projects
 
 - **Automobile Maintenance System** – ASP.NET Core MVC + EF Core  
@@ -38,26 +50,19 @@
 
 ---
 
+### 💪 Key Strengths
+- 🔹 Strong **problem-solving** and debugging ability.  
+- 🔹 Experience in **Agile development** and sprint collaboration.  
+- 🔹 Excellent **cross-functional teamwork** with UI/UX and QA teams.  
+- 🔹 Quick learner with proactive approach to new frameworks and tools.  
+- 🔹 Focused on delivering **clean, efficient, and maintainable code**.  
+
+---
+
 ### 🧾 Certifications
 - ☑️ Microsoft C# Foundation – *Microsoft (Dec 2024)*  
 - ☑️ Dot Net Full Stack Developer – *Accord Info Matrix (May 2025)*  
 - ☑️ Java Full Stack Training – *Kodnest (Mar 2024)*  
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThejivK&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThejivK&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThejivK&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
-</p>
 
 ---
 
